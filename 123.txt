@@ -2,6 +2,6 @@
 iwsjw33333333333
 44444ss4444444
 555555555555
-<<<<<<< HEAD
 hello
-hello hello //hello test
+hello hello  //hello test
+hello master //by other
